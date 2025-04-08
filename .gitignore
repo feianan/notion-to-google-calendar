@@ -1,0 +1,4 @@
+.env
+.DS_Store
+.venv/
+google_calendar_key.json
